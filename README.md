@@ -1,6 +1,6 @@
 # Website do Curso de Ciência da Computação 33Z
 
-![img](https://raw.githubusercontent.com/the-akira/CC33Z/master/Imagens/cc33z.png)
+![img](cc33z.png)
 
 ## [cc33z.pythonanywhere.com](https://cc33z.pythonanywhere.com)
 
