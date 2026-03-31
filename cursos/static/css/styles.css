@@ -350,6 +350,13 @@ footer {
   margin-top: 2.5px;
 }
 
+.mensagem {
+  text-align: center; 
+  color: #DBDBDB; 
+  margin-top: 20px; 
+  font-size: 1.2rem;
+}
+
 span { 
   font-weight: bold;
 }
